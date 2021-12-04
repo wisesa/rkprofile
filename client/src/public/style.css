@@ -1092,6 +1092,9 @@ span{
     .img-photos{
         width:200px;
     }
+    .img-pic:hover {
+        transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+      }
 }
 
 @media (min-width: 1920px) {
@@ -1123,6 +1126,9 @@ span{
         height:460px;
         border-radius: 4pt;
     }
+    .img-pic:hover {
+        transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+      }
 }
 
 @media (max-width: 1024px) {
@@ -1177,6 +1183,9 @@ span{
 
 
 @media (max-width: 768px) {
+    body {
+        background-size:contain;
+    }
     .basket {
         width: auto;
     }
@@ -1397,6 +1406,3 @@ span{
 #cart-list::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
-.img-pic:hover {
-    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-  }
