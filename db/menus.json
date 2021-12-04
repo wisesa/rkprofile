@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "60a6643b76224e162568205c"
+  },
+  "name": "Gurame Terbang",
+  "price": "50000",
+  "type": "2",
+  "pic": "3a05a3bb3f93b5667d99b5d148bf9dee.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6646b76224e162568205d"
+  },
+  "name": "Red Velvet Cake",
+  "price": "30000",
+  "type": "3",
+  "pic": "70a9e02d6560b6b17f95f7be0a8c6e83.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6659876224e162568205e"
+  },
+  "name": "Crayfish Ocherry",
+  "price": "60000",
+  "type": "1",
+  "pic": "8082d33f661f4357347a430212cd32c7.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6662276224e162568205f"
+  },
+  "name": "Pig Pudding",
+  "price": "30000",
+  "type": "3",
+  "pic": "2b2c8534e092fcb7f5061f3160925485.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a6665e76224e1625682060"
+  },
+  "name": "Spaghetti Rendang",
+  "price": "80000",
+  "type": "1",
+  "pic": "d6a6eb0a97e19619ff233e403ec22313.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4d6036c1ac90a95264838"
+  },
+  "name": "Wisesa Tart",
+  "price": "3000000",
+  "type": "3",
+  "pic": "wedding tart.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4d79fdfaf6537c19e7a58"
+  },
+  "name": "Seal Salad",
+  "price": "50000",
+  "type": "3",
+  "pic": "seal salad.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60c4e23f12577e17656b6eb1"
+  },
+  "name": "Seal Cookies",
+  "price": "50000",
+  "type": "3",
+  "pic": "seal cookies.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca102e9eb2b8ee047d1dea"
+  },
+  "name": "Giant Lobster",
+  "price": "3000000",
+  "type": "2",
+  "pic": "lobster.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca10b49eb2b8ee047d1deb"
+  },
+  "name": "Butter Poach Lobster",
+  "price": "200000",
+  "type": "2",
+  "pic": "butter poach lobster.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ca12ffed908ca010a3e7c2"
+  },
+  "name": "Dummy",
+  "price": "0",
+  "type": "",
+  "pic": ""
+},{
+  "_id": {
+    "$oid": "60db2f19e27b9e63d0ba1bb1"
+  },
+  "name": "Shrimp and Tilapia",
+  "price": "100000",
+  "type": "1",
+  "pic": "shrimp and tilapia.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f5e0ae9ea36f430fa1c09"
+  },
+  "name": "Shark Fin Soup",
+  "price": "200000",
+  "type": "1",
+  "pic": "shark fin soup.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6141d0f3c5c7960b25758b6c"
+  },
+  "name": "Kerapu Terbang",
+  "price": "100000",
+  "type": "2",
+  "pic": "kerapu terbang.JPG",
+  "__v": 0
+}]

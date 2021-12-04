@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6097ab7948d224f958867917"
+  },
+  "name": "Brad Wisesa",
+  "email": "superman.wisesa@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/bb1120ef9c984e780f5f2c1d84f2cfb5?s=200&r=pg&d=mm",
+  "password": "$2a$10$HNcx3.KRR28VIMOSBDuWZOWeZ3N5DSPCH8jGYv2jT6jTFIaFv7Fni",
+  "date": {
+    "$date": "2021-05-09T09:29:29.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616e01047da868ebbc31992d"
+  },
+  "name": "Liu Weisze",
+  "email": "liu.weisze@gmail.com",
+  "avatar": "//www.gravatar.com/avatar/3e00af267679acb0e85462b03e9c53b9?s=200&r=pg&d=mm",
+  "password": "$2a$10$XAzB.pEMPdD9GdibraRdYOrnri6WMuS0O1DnzOoQelqVHfsTysU1O",
+  "date": {
+    "$date": "2021-10-18T23:19:32.034Z"
+  },
+  "__v": 0
+}]

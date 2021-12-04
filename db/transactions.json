@@ -1,0 +1,2455 @@
+[{
+  "_id": {
+    "$oid": "60a926b1e30bd09b487daebe"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3250000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daec4"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daec3"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daec2"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daec1"
+      },
+      "menu_id": "60a65c2576224e162568205b",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daec0"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60a926b1e30bd09b487daebf"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-05-22T15:43:45.151Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "60abe2cf998d0f9398e75037"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 6310000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e7503d"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e7503c"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e7503b"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e7503a"
+      },
+      "menu_id": "60a65c2576224e162568205b",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e75039"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe2cf998d0f9398e75038"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 2
+    }
+  ],
+  "date": {
+    "$date": "2021-05-24T17:30:55.642Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "60abe318c3524228e0292e43"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3310000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e49"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e48"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e47"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e46"
+      },
+      "menu_id": "60a65c2576224e162568205b",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e45"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60abe318c3524228e0292e44"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 2
+    }
+  ],
+  "date": {
+    "$date": "2021-05-24T17:32:08.354Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "60cd73127bae2dc37cf4fd5f"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 460000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60cd73137bae2dc37cf4fd61"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "60cd73127bae2dc37cf4fd60"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-06-19T04:31:14.738Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "60ddbddfb05ad7b9841b1151"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 400000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddbde1b05ad7b9841b1155"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddbde1b05ad7b9841b1154"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddbde1b05ad7b9841b1153"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddbde0b05ad7b9841b1152"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T13:06:40.178Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "60ddcaf620bee3d2789bef24"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 6890000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef2d"
+      },
+      "menu_id": "60c4d6036c1ac90a95264838",
+      "name": "Wisesa Tart",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef2c"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef2b"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef2a"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef29"
+      },
+      "menu_id": "60ca102e9eb2b8ee047d1dea",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef28"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef27"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef26"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcaf620bee3d2789bef25"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T14:02:30.537Z"
+  },
+  "__v": 9
+},{
+  "_id": {
+    "$oid": "60ddcb6620bee3d2789bef2e"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 420000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddcb6620bee3d2789bef33"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcb6620bee3d2789bef32"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcb6620bee3d2789bef31"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcb6620bee3d2789bef30"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddcb6620bee3d2789bef2f"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T14:04:22.702Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "60ddd11edd3da9cc9ca10ded"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3310000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddd11edd3da9cc9ca10df1"
+      },
+      "menu_id": "60c4d6036c1ac90a95264838",
+      "name": "Wisesa Tart",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd11edd3da9cc9ca10df0"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd11edd3da9cc9ca10def"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd11edd3da9cc9ca10dee"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T14:28:46.640Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "60ddd24cdd3da9cc9ca10df2"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 510000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddd24cdd3da9cc9ca10df6"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd24cdd3da9cc9ca10df5"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd24cdd3da9cc9ca10df4"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd24cdd3da9cc9ca10df3"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T14:33:48.843Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "60ddd261dd3da9cc9ca10df7"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 390000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "60ddd261dd3da9cc9ca10dfc"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd261dd3da9cc9ca10dfb"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd261dd3da9cc9ca10dfa"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd261dd3da9cc9ca10df9"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "60ddd261dd3da9cc9ca10df8"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-01T14:34:09.656Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "6104a8fbae9d28ef10e6b9e8"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6104a8fcae9d28ef10e6b9ea"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6104a8fbae9d28ef10e6b9e9"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T01:35:55.950Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6104acf82568f5ebac19f7d1"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 180000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6104acf82568f5ebac19f7d2"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T01:52:56.343Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6105491ee047a46fa4bb8a33"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6105491ee047a46fa4bb8a34"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T12:59:10.220Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610549c1e047a46fa4bb8a35"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610549c1e047a46fa4bb8a36"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T13:01:53.747Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61054abde047a46fa4bb8a37"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61054abde047a46fa4bb8a38"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T13:06:05.619Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61054ee9e047a46fa4bb8a39"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61054ee9e047a46fa4bb8a3a"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T13:23:53.676Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610554b1e047a46fa4bb8a3b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610554b1e047a46fa4bb8a3c"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T13:48:33.503Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61055687e047a46fa4bb8a3d"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61055687e047a46fa4bb8a3e"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T13:56:23.121Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610571476167b0a7a023bb18"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610571476167b0a7a023bb19"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T15:50:31.698Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61057adb1f63b60cb836df63"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61057adb1f63b60cb836df64"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-07-31T16:31:23.836Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61060d40f2014dbd28bc30f9"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61060d40f2014dbd28bc30fa"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T02:56:00.639Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61060fa0f2014dbd28bc30fb"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61060fa0f2014dbd28bc30fc"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T03:06:08.605Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61061024f2014dbd28bc30fd"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61061024f2014dbd28bc30fe"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T03:08:20.742Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61061079f2014dbd28bc30ff"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61061079f2014dbd28bc3100"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T03:09:45.155Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610610ecf2014dbd28bc3101"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610610ecf2014dbd28bc3102"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T03:11:40.287Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61063863375fdd39f0a3be07"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61063863375fdd39f0a3be08"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:00:03.261Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6106389a375fdd39f0a3be09"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6106389a375fdd39f0a3be0a"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:00:58.190Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61063921375fdd39f0a3be0b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 300000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61063921375fdd39f0a3be0c"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:03:13.774Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6106398c375fdd39f0a3be0d"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6106398c375fdd39f0a3be0e"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:05:00.544Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61063a7d375fdd39f0a3be0f"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61063a7d375fdd39f0a3be10"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:09:01.649Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61063c30375fdd39f0a3be11"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61063c30375fdd39f0a3be12"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:16:16.214Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61063f43b1151a5da4b53386"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61063f43b1151a5da4b53387"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:29:23.943Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610640576ab6e7106d681f35"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1175855059162656,
+  "long": 104.06209867447615,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610640576ab6e7106d681f36"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T06:33:59.134Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610646996ab6e7106d681f37"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1020738489417972,
+  "long": 104.06438324600458,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610646996ab6e7106d681f38"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T07:00:41.163Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610647426ab6e7106d681f39"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1025964476877201,
+  "long": 104.06199272722004,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610647426ab6e7106d681f3a"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T07:03:30.347Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610647e26ab6e7106d681f3b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1173746573416652,
+  "long": 104.0614717081189,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610647e26ab6e7106d681f3c"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T07:06:10.749Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610648876ab6e7106d681f3d"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1173763334035147,
+  "long": 104.06927492469549,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610648876ab6e7106d681f3e"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T07:08:55.926Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61064a026ab6e7106d681f3f"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1181054202223724,
+  "long": 104.06501054763794,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61064a026ab6e7106d681f40"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-01T07:15:14.265Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107443e821c3aedf42bee81"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.105200054055343,
+  "long": 104.10339530557394,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107443e821c3aedf42bee82"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:02:54.240Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074b3b821c3aedf42bee83"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0731427209957969,
+  "long": 104.09039195626974,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074b3b821c3aedf42bee84"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:32:43.591Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074c47821c3aedf42bee85"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 300000,
+  "lat": 1.1693123312617857,
+  "long": 104.0964252501726,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074c47821c3aedf42bee86"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:37:11.203Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074d6f821c3aedf42bee87"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3130000,
+  "lat": 1.1722269485946337,
+  "long": 104.11660585552455,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074d6f821c3aedf42bee88"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:42:07.674Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074f63821c3aedf42bee89"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0788672217992705,
+  "long": 104.06709127128124,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074f63821c3aedf42bee8a"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:50:27.102Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074f99821c3aedf42bee8b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 300000,
+  "lat": 1.1028059564600474,
+  "long": 104.1089079156518,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074f99821c3aedf42bee8c"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:51:21.672Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61074fe0821c3aedf42bee8d"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.1022843633931363,
+  "long": 104.05512761324644,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61074fe0821c3aedf42bee8e"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:52:32.120Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61075092821c3aedf42bee8f"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 300000,
+  "lat": 1.0834469487762894,
+  "long": 104.06958773732185,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61075092821c3aedf42bee90"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T01:55:30.475Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "610751db821c3aedf42bee91"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0803244084047652,
+  "long": 104.06709127128124,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "610751db821c3aedf42bee92"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T02:00:59.622Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61075273821c3aedf42bee93"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 360000,
+  "lat": 1.1025971181158236,
+  "long": 104.0588729828596,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61075273821c3aedf42bee94"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T02:03:31.785Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107dc017328f9d1801539f2"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0843835426525625,
+  "long": 104.05544076114893,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107dc017328f9d1801539f3"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T11:50:25.926Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107dea07328f9d1801539f4"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0990572556725462,
+  "long": 104.11275520920753,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107dea07328f9d1801539f5"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:01:36.285Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107decb7328f9d1801539f6"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 180000,
+  "lat": 1.173882530338547,
+  "long": 104.09298330545425,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107decb7328f9d1801539f7"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:02:19.257Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e0917328f9d1801539f8"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3340000,
+  "lat": 1.1020741841558999,
+  "long": 104.07488979399204,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e0917328f9d1801539f9"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:09:53.522Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e10b7328f9d1801539fa"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 6190000,
+  "lat": 1.0867548602828145,
+  "long": 104.09192986786366,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e10b7328f9d1801539fb"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:11:55.994Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e1a17328f9d1801539fc"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.091876953639523,
+  "long": 104.09205626696348,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e1a17328f9d1801539fd"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:14:25.290Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e2bc7328f9d1801539fe"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 260000,
+  "lat": 1.0920851223017505,
+  "long": 104.06688272953033,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e2bc7328f9d1801539ff"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:19:08.816Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e2d77328f9d180153a00"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 280000,
+  "lat": 1.1086323056971992,
+  "long": 104.10880196839571,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e2d77328f9d180153a01"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:19:35.961Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e2fa7328f9d180153a02"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3140000,
+  "lat": 1.1567162556702961,
+  "long": 104.11212991923092,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e2fa7328f9d180153a03"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:20:10.203Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6107e5447328f9d180153a04"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3090000,
+  "lat": 1.0796985590786763,
+  "long": 104.06802602112295,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6107e5447328f9d180153a05"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-02T12:29:56.437Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61167ba5199557243d2c465f"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3420000,
+  "lat": 1.0812606680289516,
+  "long": 104.06646631658076,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61167ba5199557243d2c4660"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-13T14:03:17.072Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61187c62eb63e2066c9a93de"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3330000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61187c62eb63e2066c9a93df"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-15T02:30:58.175Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61187c84a01db3026d48a7ba"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 4020000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7c3"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7c2"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7c1"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7c0"
+      },
+      "menu_id": "60ca102e9eb2b8ee047d1dea",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7bf"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7be"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c85a01db3026d48a7bd"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c84a01db3026d48a7bc"
+      },
+      "menu_id": "60c5976d1a566c9c7883c97a",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61187c84a01db3026d48a7bb"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-15T02:31:32.940Z"
+  },
+  "__v": 9
+},{
+  "_id": {
+    "$oid": "6129927beaa8947f5590eba9"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3700000,
+  "lat": 1.0928145505438536,
+  "long": 104.06438693404198,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6129927beaa8947f5590ebaa"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-08-28T01:33:47.316Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61378b0ff0dd373799039d42"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 60000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61378b0ff0dd373799039d43"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-07T15:53:51.133Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61378d9e62e3620261dda118"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 60000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61378d9e62e3620261dda119"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-07T16:04:46.770Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61378ef309fd3d6fd41f1b7b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3400000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61378ef309fd3d6fd41f1b80"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378ef309fd3d6fd41f1b7f"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378ef309fd3d6fd41f1b7e"
+      },
+      "menu_id": "60ca102e9eb2b8ee047d1dea",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378ef309fd3d6fd41f1b7d"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378ef309fd3d6fd41f1b7c"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 2
+    }
+  ],
+  "date": {
+    "$date": "2021-09-07T16:10:27.818Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "61378f9d09fd3d6fd41f1b81"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3130000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "61378f9d09fd3d6fd41f1b84"
+      },
+      "menu_id": "60c4d6036c1ac90a95264838",
+      "name": "Wisesa Tart",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378f9d09fd3d6fd41f1b83"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "61378f9d09fd3d6fd41f1b82"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-07T16:13:17.378Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "6138a55f27078e0cc0d88707"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 9900000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6138a55f27078e0cc0d8870c"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a55f27078e0cc0d8870b"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a55f27078e0cc0d8870a"
+      },
+      "menu_id": "60ca102e9eb2b8ee047d1dea",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 3
+    },
+    {
+      "_id": {
+        "$oid": "6138a55f27078e0cc0d88709"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "6138a55f27078e0cc0d88708"
+      },
+      "menu_id": "612f5e0ae9ea36f430fa1c09",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 2
+    }
+  ],
+  "date": {
+    "$date": "2021-09-08T11:58:23.873Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "6138a6b803c022e80c51a31b"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 150000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6138a6b903c022e80c51a31d"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a6b803c022e80c51a31c"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-08T12:04:08.973Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6138a6c103c022e80c51a31e"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 280000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6138a6c103c022e80c51a320"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a6c103c022e80c51a31f"
+      },
+      "menu_id": "612f5e0ae9ea36f430fa1c09",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-08T12:04:17.968Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6138a72f2294c9b9bca14b40"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 250000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6138a72f2294c9b9bca14b42"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a72f2294c9b9bca14b41"
+      },
+      "menu_id": "612f5e0ae9ea36f430fa1c09",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-08T12:06:07.184Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "6138a7cc8447349960363f9c"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 340000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6138a7cd8447349960363fa0"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a7cd8447349960363f9f"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a7cd8447349960363f9e"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6138a7cd8447349960363f9d"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-08T12:08:44.998Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "6139541b58231affb857c2d1"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 490000,
+  "lat": 1.0691878245033588,
+  "long": 104.11244474351406,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6139541b58231affb857c2d2"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-09T00:23:55.164Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6139544e58231affb857c2d3"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 9280000,
+  "lat": 1.169102156898864,
+  "long": 104.09309461712839,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6139544e58231affb857c2d4"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-09T00:24:46.800Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "613a0b13b64befb21c2f3392"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 12880000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "613a0b13b64befb21c2f3397"
+      },
+      "menu_id": "60c4d6036c1ac90a95264838",
+      "name": "Wisesa Tart",
+      "price": 3000000,
+      "amount": 3
+    },
+    {
+      "_id": {
+        "$oid": "613a0b13b64befb21c2f3396"
+      },
+      "menu_id": "60ca102e9eb2b8ee047d1dea",
+      "name": "Giant Lobster",
+      "price": 3000000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "613a0b13b64befb21c2f3395"
+      },
+      "menu_id": "60ca10b49eb2b8ee047d1deb",
+      "name": "Butter Poach Lobster",
+      "price": 200000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "613a0b13b64befb21c2f3394"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "613a0b13b64befb21c2f3393"
+      },
+      "menu_id": "612f5e0ae9ea36f430fa1c09",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 2
+    }
+  ],
+  "date": {
+    "$date": "2021-09-09T13:24:35.094Z"
+  },
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "613a0bc2b64befb21c2f3398"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 590000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f339e"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f339d"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f339c"
+      },
+      "menu_id": "60a6646b76224e162568205d",
+      "name": "Red Velvet Cake",
+      "price": 30000,
+      "amount": 4
+    },
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f339b"
+      },
+      "menu_id": "60a6662276224e162568205f",
+      "name": "Pig Pudding",
+      "price": 30000,
+      "amount": 3
+    },
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f339a"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "613a0bc2b64befb21c2f3399"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-09T13:27:30.088Z"
+  },
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "613b5806ab22538694ed75ad"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 510000,
+  "lat": 1.0792765213511255,
+  "long": 104.06817790120839,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "613b5806ab22538694ed75ae"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-10T13:05:10.029Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "613b5c54ab22538694ed75af"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 3160000,
+  "lat": 1.145164971313123,
+  "long": 104.0939274430275,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "613b5c54ab22538694ed75b0"
+      },
+      "menu_id": "60a6659876224e162568205e",
+      "name": "Crayfish Ocherry",
+      "price": 60000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-10T13:23:32.415Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "613b5ce2ab22538694ed75b1"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 9280000,
+  "lat": 1.1637904723291412,
+  "long": 104.07707177102566,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "613b5ce2ab22538694ed75b2"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-10T13:25:54.322Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6141d110c5c7960b25758b6d"
+  },
+  "user_id": "609cbd0d56dc46efacca7fcb",
+  "total": 780000,
+  "menu": [
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b74"
+      },
+      "menu_id": "60c4d79fdfaf6537c19e7a58",
+      "name": "Seal Salad",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b73"
+      },
+      "menu_id": "60c4e23f12577e17656b6eb1",
+      "name": "Seal Cookies",
+      "price": 50000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b72"
+      },
+      "menu_id": "6141d0f3c5c7960b25758b6c",
+      "name": "Kerapu Terbang",
+      "price": 100000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b71"
+      },
+      "menu_id": "60a6643b76224e162568205c",
+      "name": "Gurame Terbang",
+      "price": 50000,
+      "amount": 2
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b70"
+      },
+      "menu_id": "60a6665e76224e1625682060",
+      "name": "Spaghetti Rendang",
+      "price": 80000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b6f"
+      },
+      "menu_id": "60db2f19e27b9e63d0ba1bb1",
+      "name": "Shrimp and Tilapia",
+      "price": 100000,
+      "amount": 1
+    },
+    {
+      "_id": {
+        "$oid": "6141d110c5c7960b25758b6e"
+      },
+      "menu_id": "612f5e0ae9ea36f430fa1c09",
+      "name": "Shark Fin Soup",
+      "price": 200000,
+      "amount": 1
+    }
+  ],
+  "date": {
+    "$date": "2021-09-15T10:55:12.770Z"
+  },
+  "__v": 7
+}]
