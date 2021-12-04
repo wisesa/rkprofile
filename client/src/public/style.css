@@ -299,7 +299,7 @@ input[type=file]{
     max-height: 40px;
 }
 
-#skills{
+#about{
     background: #edb4a1 !important;
 }
 
@@ -315,7 +315,7 @@ input[type=file]{
     transition: all ease-in-out 0.4s;
 }
 
-#education{
+#photos{
     background: #fdfdfd;
 }
 
@@ -1061,12 +1061,15 @@ span{
 }
 
 @media (min-width: 1366px) {
+    .right-md{
+        text-align: right;
+    }
     #hero {
         width: 100%;
         height: 100vh;
     }
     .img-hero {
-        width: 320px;
+        width: 300px;
         height: 550px;
     }
     .img-menu {
@@ -1078,11 +1081,16 @@ span{
     .price{
         width:160px;
     }
-    .right-md{
-        text-align: right;
-    }
     .img-rini-text{
         width:500px;
+    }
+    .img-pic{
+        width:300px;
+        height:460px;
+        border-radius: 4pt;
+    }
+    .img-photos{
+        width:200px;
     }
 }
 
@@ -1092,7 +1100,7 @@ span{
         height: 90vh;
     }
     .img-hero {
-        width: 360px;
+        width: 340px;
         height: 630px;
     }
     .img-menu {
@@ -1115,9 +1123,6 @@ span{
         height:460px;
         border-radius: 4pt;
     }
-    .img-pic:hover {
-        transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-      }
 }
 
 @media (max-width: 1024px) {
@@ -1151,11 +1156,22 @@ span{
         width: 100%;
         height: 80vh;
     }
+    .right-md{
+        text-align: right;
+    }
     .img-menu {
         width: 100px;
     }
     .flex-column-xl{
         flex-direction: column!important;
+    }
+    .img-pic{
+        width:300px;
+        height:460px;
+        border-radius: 4pt;
+    }
+    .img-photos{
+        width:200px;
     }
 }
 
@@ -1172,11 +1188,14 @@ span{
         width: auto;
     }
     .img-hero {
-        width: 400px;
+        width: 360px;
         height: 666px;
     }
     .img-menu {
         width: 100px;
+    }
+    .center-sm{
+        text-align: center;
     }
     h3 {
         font-size: 1.5rem;
@@ -1232,6 +1251,14 @@ span{
         position:absolute; 
         left:0; 
         opacity:0.1;
+    }
+    .img-pic{
+        width:300px;
+        height:460px;
+        border-radius: 4pt;
+    }
+    .img-photos{
+        width:200px;
     }
 }
 
@@ -1310,7 +1337,7 @@ span{
         height: 90vh;
     }
     .img-hero {
-        width: 240px;
+        width: 220px;
         height: 400px;
         /* background-color: white;
         box-shadow: 8px 8px 35px;
@@ -1337,6 +1364,9 @@ span{
         height:1130px; position:absolute; 
         left:0; 
         opacity:0.1;
+    }
+    .img-photos{
+        width:150px;
     }
 }
 
@@ -1367,3 +1397,6 @@ span{
 #cart-list::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+.img-pic:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }

@@ -21,7 +21,7 @@ const Landing=({login,isAuthenticated})=>{
                 </div>
             </section>
 
-            <section id="skills" className="about">
+            <section id="about" className="about">
                 <div className="container">
                     <div className="section-title">
                         <img className="img-photos" src="/img/aboutme.png" />
@@ -35,7 +35,11 @@ const Landing=({login,isAuthenticated})=>{
                         <div className="col-lg-6 card-purple mt-5">
                             <div className="member d-flex flex-column align-items-center" data-aos="fade-up">
                                 <p className="p-3">
-                                    <b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                                    <b>I'm grateful</b> to be happy wife.  You have changed my life by coming into my world. Now, my heart doesn’t belong to me, it’s you and your love that makes me happy.
+                                    The best feeling in the world is realizing that you’re my husband. Thanks for lifting my spirits simply with a smile and making my every day worth living.
+                                    My dear husband, thank you for being the guiding light when life threw me in the darkest of corners.
+                                    I cannot rank you as a husband because no rate card in this world has numbers going up to infinity. Thanks for being the best.
+                                    Loving you is the sweetest thing to do. Thank you for everything.
                                 </p>
                             </div>
                         </div>
@@ -43,32 +47,29 @@ const Landing=({login,isAuthenticated})=>{
                 </div>
             </section>
 
-            <section id="education" className="services">
+            <section id="photos" className="services">
                 <div className="container">
                     <div className="section-title">
                         <img className="img-photos" src="/img/photos.png" />
                     </div>
 
                     <div className="row content">
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic1.jpeg" />
                         </div>
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic2.jpeg" />
                         </div>
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic3.jpeg" />
                         </div>
-                    </div>
-
-                    <div className="row content">
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic4.jpg" />
                         </div>
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic5.jpg" />
                         </div>
-                        <div className="col-lg-4 center mt-5">
+                        <div className="col-lg-4 col-md-6 center mt-5">
                             <img className="img-pic" src="/img/pic6.jpg" />
                         </div>
                     </div>

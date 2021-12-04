@@ -40,12 +40,12 @@ const Navbar=({ auth: { isAuthenticated, loading }, logout })=>{
           </a>
         </li>
         <li className="nav-item mr-3">
-          <a className="nav-link js-scroll-trigger" href="#hero">
+          <a className="nav-link js-scroll-trigger" href="#about">
             <span className="purple bold hide-sm">&nbsp;&nbsp;About Me</span>
           </a>
         </li>
         <li className="nav-item mr-3">
-          <a className="nav-link js-scroll-trigger" href="#hero">
+          <a className="nav-link js-scroll-trigger" href="#photos">
             <span className="purple bold hide-sm">&nbsp;&nbsp;Photos</span>
           </a>
         </li>
